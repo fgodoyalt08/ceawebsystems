@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+.ant-radio-group {
+    width: 100%;
+}
+.ant-picker-large {
+    width: 100%;
+}
+.ant-input-number{
+    width: 100%;
+}
